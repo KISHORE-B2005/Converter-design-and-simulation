@@ -1,5 +1,9 @@
 # Converter-design-and-simulation
 
+### NAME : KISHORE.B
+### REG.NO.: 212222110020
+### DEPT.:C.S.E(Internet of things) 
+
 # Aim
 To design and simulate AC to DC converter & DC voltage regulator using proteus.
 
@@ -93,15 +97,18 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 
 ## AC to DC Converter
 
-![image](https://github.com/anishkumar-Embedded/Converter-design-and-simulation/assets/71547910/9fbaa555-6932-4643-982c-63dbb0d6607b)
+![image](https://github.com/user-attachments/assets/a9ef79b8-c006-4e6f-852a-426e21db77b6)
+
 
 ## DC to DC voltage regulator
 
-![image](https://github.com/anishkumar-Embedded/Converter-design-and-simulation/assets/71547910/0cfd4fc7-1eff-42e3-9806-319bfe174926)
+![image](https://github.com/user-attachments/assets/d7472590-1f0f-4147-ad7a-5d30e70f47f4)
+
 
 # Output
 
 
+![image](https://github.com/user-attachments/assets/6b66eac0-b0ac-4e4a-8b19-dfcab6a0981f)
 
 
 
